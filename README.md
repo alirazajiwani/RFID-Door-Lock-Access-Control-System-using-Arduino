@@ -10,8 +10,3 @@ The primary goals of this project are:
 **Multi-Door Access Control:** To develop a comprehensive solution for managing access across multiple doors.
 **Audit Log Generation:** To implement a detailed logging mechanism for all access events to ensure accountability.
 **Scalability and Extensibility:** To design an adaptable system that can easily accommodate future growth.
-
-## Block Diagram
-
-![Block Diagram of RFID Door Lock System using Arduino](https://i.imgur.com/your-block-diagram-image-url.png)
-*Figure 1 - Block Diagram of RFID Door Lock System using Arduino* 

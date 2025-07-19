@@ -30,6 +30,6 @@ The system utilizes an RFID reader to capture unique identifiers from RFID tags.
 - LEDs & Buzzer: Provide visual and audible feedback for access status.
 
 
-
+--
 
 **NOTE:** For detail information and knowledge check 'RFID Door Lock Access Control System using Arduino.docx'.

@@ -28,3 +28,8 @@ The system utilizes an RFID reader to capture unique identifiers from RFID tags.
 - MG945 Servomotor: Controls the door lock mechanism.
 - 16x2 LCD with I2C Module: Displays system status and messages.
 - LEDs & Buzzer: Provide visual and audible feedback for access status.
+
+
+
+
+**NOTE:** For detail information and knowledge check 'RFID Door Lock Access Control System using Arduino.docx'.

@@ -1,6 +1,6 @@
 # RFID Door Lock Access Control System using Arduino
 
-The integration of RFID technology with the Arduino platform offers a significant advancement in access control systems. [cite: 19] [cite_start]This project moves beyond traditional lock-and-key mechanisms by providing a more secure, efficient, and scalable solution. [cite: 15, 18] [cite_start]The system utilizes RFID tags, which act as digital keys, to grant access only to authorized users. It is designed to be flexible and adaptable, allowing for future expansion and the integration of new technologies. 
+The integration of RFID technology with the Arduino platform offers a significant advancement in access control systems. This project moves beyond traditional lock-and-key mechanisms by providing a more secure, efficient, and scalable solution. The system utilizes RFID tags, which act as digital keys, to grant access only to authorized users. It is designed to be flexible and adaptable, allowing for future expansion and the integration of new technologies. 
 
 ## Objectives
 
